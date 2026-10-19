@@ -1,0 +1,12 @@
+{
+  "name": "ae-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "건축공학 포트폴리오와 진로 추천",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
